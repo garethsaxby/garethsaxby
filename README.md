@@ -1,4 +1,4 @@
-How's it going? I'm Gareth, Senior Engineer at [DevOpsGroup](https://www.devopsgroup.com/) 🐶 and a huge [HashiCorp Terraform](https://www.terraform.io/) nerd.
+How's it going? I'm Gareth, Lead Engineer at [DevOpsGroup](https://www.devopsgroup.com/) 🐶 and a huge [HashiCorp Terraform](https://www.terraform.io/) nerd.
 
 ### What I'm Up To
 
